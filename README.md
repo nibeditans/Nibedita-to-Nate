@@ -19,7 +19,9 @@ This is intentionally simple. The value isn't in the complexity of the problem, 
 The same transformation is written twice to highlight two mental models:
 
 - **Python** expresses the logic imperatively, step by step.
+    - View Code: [Pyhton Version](https://github.com/nibeditans/Nibedita-to-Nate/blob/main/Nate.py)
 - **SQL** expresses the logic declaratively, describing what to extract rather than how to iterate.
+    - View Code: [SQL Version](https://github.com/nibeditans/Nibedita-to-Nate/blob/main/Nate.sql)
 
 This mirrors how real data work often looks:
 - the problem stays the same
