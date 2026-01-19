@@ -59,3 +59,6 @@ FROM NameExtraction;
 The same idea expressed declaratively, describing what to extract, not how to loop.
 
 This isn't meant to be impressive or clever. It's just a small, honest example of how I like to reason about things, whether it's names, data, or problems. 
+
+
+**Implementation details: [Nibedita ⇝ Nate](https://github.com/nibeditans/Nibedita-to-Nate)**
