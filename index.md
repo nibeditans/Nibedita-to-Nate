@@ -7,7 +7,7 @@ At some point, I realized I could derive a simpler version of my name using a sm
 Below is the exact logic, written in Python and SQL.
 
 
-## Python
+## [Python](https://github.com/nibeditans/Nibedita-to-Nate/blob/main/Nate.py)
 ```py
 name = "Nibedita"
 n = len(name)
@@ -20,7 +20,7 @@ easier_verse = main_char + mid_chars + end_char
 print(easier_verse) # Nate
 ```
 
-## SQL 
+## [SQL](https://github.com/nibeditans/Nibedita-to-Nate/blob/main/Nate.sql)
 
 There are many databases out there, but since this isn't a project or framework, I just want to show you two options: MySQL and PostgreSQL. I chose these two because they're among the most widely used databases in the data field. That's it! There's no deeper logic behind focusing only on these two.
 
